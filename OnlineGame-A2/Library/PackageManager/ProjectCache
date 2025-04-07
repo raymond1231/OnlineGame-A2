@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638796298181398971
+      ticks: 638796306402012227
     m_Hash: 625669842
   m_LockFileStatus:
     m_FilePath: E:/GitHub/OnlineGame-A2/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638796298181434599
+      ticks: 638796306402094939
     m_Hash: 247386317
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -3473,6 +3473,7 @@ m_ResolvedPackages:
     - 1.8.17
     - 1.8.18
     - 1.8.19
+    - 1.8.20
     compatible:
     - 1.8.13
     - 1.8.14
@@ -3481,7 +3482,8 @@ m_ResolvedPackages:
     - 1.8.17
     - 1.8.18
     - 1.8.19
-    recommended: 1.8.19
+    - 1.8.20
+    recommended: 1.8.20
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
